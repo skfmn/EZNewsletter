@@ -30,7 +30,7 @@ The newsletter.asp file contains the form for users to subscribe. It may be form
 We can install any of the EZcodes for a fee.
 If you would like some custom ASP coding done we are available and charge reasonable rates
 
-Please contact admin@htmljunction.com
+Please contact mail@aspjunction.com
 
 
 Change Log:
