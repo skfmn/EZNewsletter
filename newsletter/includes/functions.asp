@@ -1,6 +1,6 @@
 <%
 
-    strVersion = "4.0.3"
+    strVersion = "5"
 
     strSaveFile = Request.ServerVariables("APPL_PHYSICAL_PATH")&strFolder&"images"
 	
